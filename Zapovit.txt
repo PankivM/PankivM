@@ -33,3 +33,4 @@ In times of doubt, I shall keep fait.
 //The line added by vinyarskyy
 //also in new branch
 //and this line after merge(rebase)
+//change is only in new branch
